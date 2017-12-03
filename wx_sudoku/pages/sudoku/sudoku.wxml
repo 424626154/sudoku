@@ -1,0 +1,6 @@
+<!-- <view hidden="{{hidden}}">
+  Coordinates: ({{x}}, {{y}})
+</view>  -->
+<canvas canvas-id="sudoku"
+style='disable-scroll="true";bindtouchstart="touchStart";bindtouchmove="touchMove";bindtouchend="touchEnd";binderror="touchError";width:{{canvWidth}}px;height:{{canvHeight}}px;background-color: #d4d4d4'/>
+
